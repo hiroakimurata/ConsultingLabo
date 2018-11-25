@@ -1,4 +1,4 @@
 # ConsultingLabo
 Woking Directory contains something in progress and unofficial.
 
-- 登録されるデバイスのAD統合
+[Next Page](Azure AD for MDM_Tips)
