@@ -1,6 +1,6 @@
 # How to register a portable HDD managed by Toshiba recorder and copy the contents to backup disk on Linux - Unofficial
 
-- Step by Step
+- Step by Step guide
 	* http://www.4682.info/copy
 	* There is no need CD/DVD drive when you utilize path disk through disk on Hyper-V.
 - mount/umount disk
