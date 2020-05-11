@@ -6,6 +6,7 @@
 	* [Document:Implementing a Zero Trust approach with Azure Active Directory](https://download.microsoft.com/download/8/2/7/8271584F-A6D6-419A-B262-C37E5FFAB593/Implementing-a-Zero-Trust-approach-with-Azure-Active-Directory.pdf)
 	* [Blog:Implementing Zero Trust with Microsoft Azure: Identity and Access Management (1 of 6)](https://devblogs.microsoft.com/azuregov/implementing-zero-trust-with-microsoft-azure-identity-and-access-management-1-of-6/)
 	* [Blog:Building Zero Trust networks with Microsoft 365](https://www.microsoft.com/security/blog/2018/06/14/building-zero-trust-networks-with-microsoft-365/)
+	* [Zero Trust Deployment Guide for Microsoft Azure Active Directory](https://www.microsoft.com/security/blog/2020/04/30/zero-trust-deployment-guide-azure-active-directory/)
 
 # Usuful links based on my LeetCode learning history
 - Picked up 60 problems 
