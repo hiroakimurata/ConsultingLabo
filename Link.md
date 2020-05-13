@@ -1,3 +1,9 @@
+# Usuful links for Application management
+- Azure AD
+	* [Resources for migrating applications to Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migration-resources)
+	* [Application management documentation](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/
+)
+
 # Usuful links for learning Zero Trust
 - NIST
 	* [Document:NIST.SP.800-207-draft2.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf)
