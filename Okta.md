@@ -1,2 +1,2 @@
 # Okta sample app
-- [Find the default auth server](wiki/images/okta.jpeg)
+- [Find the default auth server](https://github.com/hiroakimurata/ConsultingLabo/wiki/images/Okta.jpeg)
